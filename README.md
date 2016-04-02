@@ -6,7 +6,7 @@
     
     Author         : Romain Vinders
     Driver         : C, QNX kernel
-    Local server   : C++
+    Local server   : C
     Distant client : C# .NET
     Date           : 2015
     License        : GPLv2
