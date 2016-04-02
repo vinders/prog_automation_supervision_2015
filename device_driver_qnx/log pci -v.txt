@@ -1,0 +1,28 @@
+
+PCI version    = 3.00
+
+    [...]
+
+Class          = Data Acquisition (Other)
+Vendor ID      = 6666h, Decision Computer International Co. 
+Device ID      = 101h,  PCI 8255/8254 I/O Card
+PCI index      = 0h
+Class Codes    = 118003h
+Revision ID    = 2h
+Bus number     = 1
+Device number  = 12
+Function num   = 0
+Status Reg     = 280h
+Command Reg    = 3h
+Header type    = 0h Single-function
+BIST           = 0h Build-in-self-test not supported
+Latency Timer  = 0h
+Cache Line Size= 10h un-cacheable
+BAR - 0 [Mem]  = f7c20000h 32bit length 128 enabled
+BAR - 1 [I/O]  = e100h length 128 enabled
+BAR - 3 [I/O]  = e000h length 256 enabled
+Max Lat        = 0ns
+Min Gnt        = 0ns
+PCI Int Pin    = NC
+Interrupt line = no connection
+
